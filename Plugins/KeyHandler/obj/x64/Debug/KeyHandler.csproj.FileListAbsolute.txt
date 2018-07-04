@@ -1,0 +1,13 @@
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\bin\x64\Debug\KeyHandler.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\bin\x64\Debug\KeyHandler.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\bin\x64\Debug\ES.Logging.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\bin\x64\Debug\ES.Windows.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\bin\x64\Debug\Plugins.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\bin\x64\Debug\NLog.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\bin\x64\Debug\ES.Logging.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\bin\x64\Debug\ES.Windows.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\bin\x64\Debug\Plugins.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\bin\x64\Debug\NLog.xml
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\obj\x64\Debug\KeyHandler.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\obj\x64\Debug\KeyHandler.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\KeyHandler\obj\x64\Debug\KeyHandler.pdb

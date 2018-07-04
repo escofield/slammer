@@ -1,0 +1,15 @@
+C:\Users\Erik\Desktop\Slammer\Rift\obj\Debug\Rift.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\Rift.dll
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\Rift.pdb
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\Autofac.dll
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\ES.Windows.dll
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\Plugins.dll
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\ES.Logging.dll
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\NLog.dll
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\ES.Windows.pdb
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\Plugins.pdb
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\Autofac.xml
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\ES.Logging.pdb
+C:\Users\Erik\Desktop\Slammer\Rift\bin\Debug\NLog.xml
+C:\Users\Erik\Desktop\Slammer\Rift\obj\Debug\Rift.dll
+C:\Users\Erik\Desktop\Slammer\Rift\obj\Debug\Rift.pdb

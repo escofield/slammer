@@ -1,0 +1,13 @@
+C:\Users\Erik\Desktop\Slammer\Plugins\obj\Debug\Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Desktop\Slammer\Plugins\bin\Debug\Plugins.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\bin\Debug\Plugins.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\obj\Debug\Plugins.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\obj\Debug\Plugins.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\bin\Debug\ES.Windows.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\bin\Debug\ES.Logging.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\bin\Debug\Autofac.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\bin\Debug\NLog.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\bin\Debug\ES.Windows.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\bin\Debug\ES.Logging.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\bin\Debug\Autofac.xml
+C:\Users\Erik\Desktop\Slammer\Plugins\bin\Debug\NLog.xml

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <section name="nlog" type="NLog.Config.ConfigSectionHandler, NLog" />
+    <section name="autofac" type="Autofac.Configuration.SectionHandler, Autofac.Configuration" />
+  </configSections>
+  <nlog xmlns="http://www.nlog-project.org/schemas/NLog.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" throwExceptions="true">
+    <targets>
+      <target name="logfile" xsi:type="File" fileName="slammer.log" layout="${longdate} ${callsite} ${level} ${message}" />
+      <target name="console" xsi:type="ColoredConsole" layout="${message}">
+        <highlight-row condition="level == LogLevel.Debug" foregroundColor="DarkGray" />
+        <highlight-row condition="level == LogLevel.Info" foregroundColor="Gray" />
+        <highlight-row condition="level == LogLevel.Warn" foregroundColor="Yellow" />
+        <highlight-row condition="level == LogLevel.Error" foregroundColor="Red" />
+        <highlight-row condition="level == LogLevel.Fatal" foregroundColor="Red" backgroundColor="White" />
+      </target>
+    </targets>
+    <rules>
+      <logger name="*" minLevel="Debug" writeTo="console" />
+      <logger name="*" minLevel="Debug" writeTo="logfile" />
+    </rules>
+  </nlog>
+  <autofac>
+    <modules>
+      <module type="KeyHandler.HotKeyModule, KeyHandler"></module>
+      <module type="Rift.RiftModule, Rift"></module>
+    </modules>
+  </autofac>
+  <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="Autofac" publicKeyToken="17863af14b0044da" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-3.5.0.0" newVersion="3.5.0.0" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>

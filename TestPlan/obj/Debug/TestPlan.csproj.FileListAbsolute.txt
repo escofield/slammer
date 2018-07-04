@@ -1,0 +1,14 @@
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\TestPlan.dll.config
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\TestPlan.dll
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\TestPlan.pdb
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\Autofac.Configuration.dll
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\Autofac.dll
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\ES.Logging.dll
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\NLog.dll
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\ES.Logging.pdb
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\Autofac.xml
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\Autofac.Configuration.xml
+C:\Users\Erik\Desktop\Slammer\TestPlan\bin\Debug\NLog.xml
+C:\Users\Erik\Desktop\Slammer\TestPlan\obj\Debug\TestPlan.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Desktop\Slammer\TestPlan\obj\Debug\TestPlan.dll
+C:\Users\Erik\Desktop\Slammer\TestPlan\obj\Debug\TestPlan.pdb

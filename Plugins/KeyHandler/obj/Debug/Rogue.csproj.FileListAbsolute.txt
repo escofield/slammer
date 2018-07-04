@@ -1,0 +1,15 @@
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\obj\Debug\Rogue.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\Rogue.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\Rogue.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\Autofac.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\ES.Logging.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\ES.Windows.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\Plugins.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\NLog.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\ES.Logging.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\ES.Windows.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\Plugins.pdb
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\Autofac.xml
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\bin\Debug\NLog.xml
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\obj\Debug\Rogue.dll
+C:\Users\Erik\Desktop\Slammer\Plugins\Toons\Rogue\obj\Debug\Rogue.pdb

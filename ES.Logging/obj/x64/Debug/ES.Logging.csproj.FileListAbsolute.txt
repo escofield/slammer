@@ -1,0 +1,9 @@
+C:\Users\Erik\Desktop\Slammer\ES.Logging\bin\x64\Debug\ES.Logging.dll
+C:\Users\Erik\Desktop\Slammer\ES.Logging\bin\x64\Debug\ES.Logging.pdb
+C:\Users\Erik\Desktop\Slammer\ES.Logging\bin\x64\Debug\Autofac.dll
+C:\Users\Erik\Desktop\Slammer\ES.Logging\bin\x64\Debug\NLog.dll
+C:\Users\Erik\Desktop\Slammer\ES.Logging\bin\x64\Debug\Autofac.xml
+C:\Users\Erik\Desktop\Slammer\ES.Logging\bin\x64\Debug\NLog.xml
+C:\Users\Erik\Desktop\Slammer\ES.Logging\obj\x64\Debug\ES.Logging.dll
+C:\Users\Erik\Desktop\Slammer\ES.Logging\obj\x64\Debug\ES.Logging.pdb
+C:\Users\Erik\Desktop\Slammer\ES.Logging\obj\x64\Debug\ES.Logging.csprojResolveAssemblyReference.cache
